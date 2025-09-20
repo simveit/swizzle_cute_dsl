@@ -1,6 +1,6 @@
 # Swizzles and their usage in CuTe Kernels
 
-This repository contains the code for [this blogpost]().
+This repository contains the code for [this blogpost](https://veitner.bearblog.dev/swizzles-and-their-usage-in-cutedsl-kernels/).
 For better understanding I recommend to play around with it.
 There are multiple scripts that visualize different scenarios.
 
